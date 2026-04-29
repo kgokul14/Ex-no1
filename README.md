@@ -225,7 +225,18 @@ END
 |     1203 :  34          |                          |
 
 #### Manual Calculations
+
+
+
+
+
 <img width="1156" height="868" alt="f79f697c-030d-4a5f-8af6-776a685e1e48" src="https://github.com/user-attachments/assets/0734e3fd-f2ce-4f4d-9edc-444fea3acdd5" />
+
+
+
+
+
+
 
 
 ---
