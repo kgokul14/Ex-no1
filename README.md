@@ -3,14 +3,10 @@
 
 ## AIM
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
-
 ---
-
 ## APPARATUS REQUIRED
 * Personal Computer with MASM Software
-
 ---
-
 ## 1. ADDITION
 
 #### Algorithm
@@ -23,11 +19,9 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 7. Store result.
 8. Stop.
 
-
 ## FLOW CHART
 
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
 
 #### Program
 
@@ -62,7 +56,6 @@ END
 #### Manual Calculations
 <img width="868" height="1156" alt="c7ac846a-1b28-49d5-9ccb-48d6e537912a" src="https://github.com/user-attachments/assets/b277d3a8-7456-48d8-8139-ab22be54e416" />
 
-
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
@@ -70,7 +63,6 @@ END
 ![WhatsApp Image 2026-02-07 at 9 34 46 AM](https://github.com/user-attachments/assets/15ec6fdc-c06c-4bc5-a346-18df90037c0b)
 
 ## 2. SUBTRACTION
-
 #### Algorithm
 
 1. Initialize memory and store 1st data.
@@ -82,7 +74,6 @@ END
 ## FLOWCHART
 
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 
@@ -105,8 +96,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -119,8 +108,6 @@ END
 #### Manual Calculations
 
 <img width="868" height="1156" alt="72dcc5a9-534e-4a7c-89d5-58a6a60b7b00" src="https://github.com/user-attachments/assets/ce6238ba-c26b-4877-b379-40fc65ee9b55" />
-
-
 ---
 
 
@@ -159,7 +146,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -173,11 +159,7 @@ END
 
 <img width="868" height="1156" alt="93b4c672-0ae7-464e-8426-78b8faf702bb" src="https://github.com/user-attachments/assets/9dfa1aaa-30ac-4af1-8a97-d8d32f1f7bcb" />
 
-
-
 ---
-
-
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
@@ -194,7 +176,6 @@ END
 ## FLOWCHART
 
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
@@ -214,7 +195,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -226,18 +206,7 @@ END
 
 #### Manual Calculations
 
-
-
-
-
 <img width="1156" height="868" alt="f79f697c-030d-4a5f-8af6-776a685e1e48" src="https://github.com/user-attachments/assets/0734e3fd-f2ce-4f4d-9edc-444fea3acdd5" />
-
-
-
-
-
-
-
 
 ---
 
